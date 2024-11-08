@@ -13,6 +13,8 @@ Make sure you have Java 17 or higher installed. If you need to check your Java v
 ```bash
 java -version
 ```
+# All the code is under following folder
+BookAPI/src/main/java/com/example/demo/
 
 ## How to Run
 
